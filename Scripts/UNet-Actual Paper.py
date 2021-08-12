@@ -87,7 +87,7 @@ class UNet(nn.Module):
         x =  self.up_conv4(torch.cat([x,y],1))
 
         x = self.out(x)
-        return x
+
 
         print(x1.size())
         print(x3.size())
@@ -99,7 +99,8 @@ class UNet(nn.Module):
         print(y.size())
 
         print(x.size())
-
+        
+        return x
         # check x7 and x size. so either 1.crop 2.padding
 
         # batch size, channel, height, width
