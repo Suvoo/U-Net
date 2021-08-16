@@ -1,0 +1,7 @@
+torch==1.9.0+cu111
+numpy==1.19.4
+torchvision==0.10.0+cu111
+tqdm==4.62.1
+albumentations==1.0.3
+dataset==1.5.0
+Pillow==8.3.1
