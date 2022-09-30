@@ -1,4 +1,4 @@
-## UNet implementation for biomedical imaging
+## UNet implementation for Biomedical Imaging
 
 Original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox: [https://arxiv.org/abs/1505.04597](https://arxiv.org/abs/1505.04597)
 
