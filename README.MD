@@ -9,5 +9,5 @@ Original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox: [https://arxiv
 ![input and output for a random image in the test dataset](https://i.imgur.com/GD8FcB7.png)
 
 
-customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from high definition images.
+Customized Implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from High Definition Images.
 
